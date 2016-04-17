@@ -15,7 +15,7 @@
   along with Walkmod.  If not, see <http://www.gnu.org/licenses/>.*/
 package org.walkmod.sonar.visitors;
 
-
+  
 import java.util.Collection;
 import java.util.HashSet;
 import java.util.Iterator;
