@@ -45,7 +45,7 @@ import org.walkmod.javalang.ast.expr.NameExpr;
 import org.walkmod.javalang.ast.expr.VariableDeclarationExpr;
 import org.walkmod.javalang.ast.stmt.ReturnStmt;
 import org.walkmod.javalang.ast.type.ClassOrInterfaceType;
-    
+
 import org.walkmod.javalang.ast.type.Type;
 import org.walkmod.javalang.compiler.symbols.RequiresSemanticAnalysis;
 import org.walkmod.javalang.compiler.symbols.SymbolType;
